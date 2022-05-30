@@ -1,0 +1,44 @@
+O que é o Pensamento Computacional?
+
+o PC é o processo de pensamento envolvido na expressão de soluções em passos computacionais ou algoritmos que podem ser implementados no computador.
+Ele é um sistema Sistematico  e eficente na formulação e resolução de problemas, ele tem que ser feito de forma que humanos e maquinas sejam capazes de resolver, por conta desses aspectos é considerado uma habilidade generalista.
+
+Dividimos o Pc em 4 pilares sendo eles: Decomposição, Reconhecimento de padrões, abstração e Design de Algoritmos 
+( agora explicaremos como da um deles funciona )
+
+Decomposição: Separação do Problema em partes, temos o exemplo da Receita de bolo
+
+Reconhecimento de Padrões: Identificar padrões, tendencias ou similaridades e as diferenças entre os problemas, temos o exemplo do Codigo de Barras no supermercado, quando a atendente passa o código na maquina, ela reconhece os padrões e identifica o produto 
+
+Abstração : Talvez um dos mais complexos tende a extrapolar o conceito do problema para uma forma generalista, temos de exemplo a Classes de Animais, temos os anfíbios, Répteis e Mamíferos que tambem são subclasses de animais
+
+Design de ALgoritmos: Tem o objetivo de definir passo a passo a solução de um problema, de exemplo ele seria o guia
+
+E assim temrminamos a primeira parte de Introdução ao PC
+
+Habilidades Complementares: Raciocinio logico e Aperfeiçoamento
+
+Raciocinio Lógico: É uma forma de pensamento estruturado ou raciocínio que permite encontrar a conclusão ou determinar a resolução de um problema, podemos divir ele de três formas 
+
+Indução : Fenomeno observado
+Dedução : Baseado em leis ou teorias, usado em ciencias exatas 
+Abdução : "a grama está molhada, pode ter chovido" atraves de uma premissa se obtem uma conclusão
+
+Aperfeiçoamento 
+
+Encontrar solução eficiente
+otimizar processos            = Melhor uso de recursos 
+
+Simplificar linhas de código
+Funções bem definidas           = Melhorar códigos e algoritmos 
+
+##Decomposição 
+Dado um problema complexo,devemos quebra-lo em problemas menores, portanto problemas mais faceis e gerenciais 
+
+Análise : Processo de quebrar e determinar partes menores e gerenciaveis 
+Síntese : Combinar os elementos recompondo o problema original 
+
+
+ 
+ 
+ 
